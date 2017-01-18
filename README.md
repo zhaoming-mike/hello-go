@@ -1,3 +1,7 @@
+# Why learning
+
+![](Tiobe-Rank-2017-Jan.png)
+
 # Go 语言入门
 
 ```go
@@ -11,7 +15,6 @@ func main() {
 	fmt.Println("Hello, 世界")
 }
 ```
-
 ##重点理解
 * [多重返回值(multiple-return-values)](src/13.multiple-return-values.go) 
 * [引用传递(pointer)](src/17.pointers.go)
