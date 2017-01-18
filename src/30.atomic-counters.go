@@ -17,7 +17,7 @@ func main() {
 		}()
 	}
 
-	time.Sleep(time.Second)
+	time.Sleep(time.Second * 2)
 	opsFinal := atomic.LoadUint64(&ops)
 
 	fmt.Println("ops:", opsFinal)
