@@ -1,4 +1,4 @@
-# Why learning
+# Why learning [![Build Status](https://travis-ci.org/zhaoming-mike/hello-go.svg)](https://travis-ci.org/zhaoming-mike/hello-go)
 
 ![](Tiobe-Rank-2017-Jan.png)
 
