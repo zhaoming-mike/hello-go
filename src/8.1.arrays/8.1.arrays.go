@@ -1,4 +1,5 @@
 package main
+
 import "fmt"
 
 func main() {
@@ -7,6 +8,6 @@ func main() {
 	a[0] = 1
 	fmt.Println("a:", a)
 
-	a[5] = 100
-	fmt.Println("out index of array:", a)
+	//a[5] = 100
+	//fmt.Println("out index of array:", a)
 }
