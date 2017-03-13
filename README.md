@@ -14,7 +14,7 @@ func main() {
 }
 ```
 ##重点理解
-* [多重返回值(multiple-return-values)](src/13.multiple-return-values.go) 
+* [多重返回值(multiple-return-values)](src/13.multiple-return-values.go/13.multiple-return-values.go) 
 * [引用传递(pointer)](src/17.pointers.go)
 * [结构体(struct)](src/18.structs.go)
 * [错误(error)](src/21.errors.go)
